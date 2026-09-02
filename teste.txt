@@ -1,0 +1,1 @@
+Arquivo criado para demonstrar o gerenciamento de arquivos utilizando Git.
