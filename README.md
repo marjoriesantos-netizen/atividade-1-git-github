@@ -20,3 +20,7 @@ Projeto desenvolvido para a disciplina utilizando Git e GitHub.
 ## Objetivo
 
 Praticar os principais comandos do Git, incluindo criação, alteração, exclusão e publicação de arquivos em um repositório GitHub.
+
+## Status
+
+Projeto em desenvolvimento.
