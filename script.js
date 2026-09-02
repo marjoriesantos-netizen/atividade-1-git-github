@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    alert("JavaScript funcionando!");
+    alert("JavaScript funcionando corretamente!");
 }
